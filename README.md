@@ -30,6 +30,6 @@ We completed the following tasks as part of this assignment:
 - Applied **transfer learning** using pretrained models (e.g., VGG16, ResNet50, or DenseNet121)
 - Compared results across models and discussed performance
 
-## My Contributions
+## Contributions
 
-Implementation of transfer learning. 
+My contribution is implementation of transfer learning. 
